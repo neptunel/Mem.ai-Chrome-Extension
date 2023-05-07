@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Mem Chrome Extension",
+  "description": "A Chrome extension for Mem that allows users to save a website directly to Mem.",
+  "version": "1.0",
+
+  "permissions": ["activeTab","tabs"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "48": "/assets/icons/mem-logo-48x48.png",
+      "128": "/assets/icons/mem-logo-128x128.png"
+      }
+
+  },
+  "icons": {
+		"48": "/assets/icons/mem-logo-48x48.png",
+		"128": "/assets/icons/mem-logo-128x128.png"
+	}
+  
+}
