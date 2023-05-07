@@ -44,5 +44,5 @@ To install in Chrome
 
 👤 **Fatma Sena Ekiz**
 
-- Github: [@githubhandle](https://github.com/neptunel)
+- Github: [@neptunel](https://github.com/neptunel)
 - Linkedin: [linkedin](https://www.linkedin.com/in/fatma-sena-ekiz/)
